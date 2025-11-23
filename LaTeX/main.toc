@@ -1,0 +1,14 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{Streszczenie}{2}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Co człowiek zyskuje dla zdrowia, mieszkając na wsi?}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Dlaczego życie w mieście nie dorównuje życiu na wsi?\cite {link2}}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Różnice w codziennym tempie życia}{8}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Poczucie szczęścia a miejsce zamieszkania}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Ile kosztuje spokój?}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Nieruchomości – przepaść w cenie i przestrzeni}{11}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Codzienne wydatki i styl życia\cite {link5}}{11}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Podsumowanie finansowe\cite {link5}}{11}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Podsumowanie}{12}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Uzasadnienie wyboru klasy}{13}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Repozytorium źródeł}{13}{section.6.2}%

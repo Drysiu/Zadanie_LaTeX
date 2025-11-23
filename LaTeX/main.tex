@@ -1,0 +1,38 @@
+\documentclass{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{float}
+
+\pagestyle{fancy}
+\fancyhead{} 
+\fancyhead[L]{\rightmark}      
+\fancyhead[R]{Autor: Piotr Dryś}
+\fancyfoot[C]{\thepage}        
+
+\title{Dlaczego na wsi żyje się lepiej niż w mieście?}
+\author{Piotr Dryś}
+\date{2025.11.22}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\clearpage
+
+\input{rozdzialy/wstep.tex}
+\input{rozdzialy/rozdzial1.tex}
+\input{rozdzialy/rozdzial2.tex}
+\input{rozdzialy/rozdzial3.tex}
+\input{rozdzialy/rozdzial4.tex}
+\input{rozdzialy/wnioski.tex}
+\input{rozdzialy/bibliografia.tex}
+
+\end{document}
